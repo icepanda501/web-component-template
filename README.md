@@ -1,0 +1,1 @@
+try to "hello world" level for web component, Actually I want to use it more in real world case but I have no time for this T T 
