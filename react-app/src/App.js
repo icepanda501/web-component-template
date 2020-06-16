@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <my-button>asdoijaosdi</my-button>
+
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +19,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <my-button>asdoijaosdi</my-button>
         </a>
       </header>
     </div>

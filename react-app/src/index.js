@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import myButton from '../../webComponent/myButton/myButton.js'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
